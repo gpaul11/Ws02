@@ -1,3 +1,16 @@
+/*************************************************************************
+* WEB322– Assignment 2
+* I declare that this assignment is my own work in accordance with Seneca Academic
+Policy. No part * of this assignment has been copied manually or electronically from any
+other source
+* (including 3rd party web sites) or distributed to other students.
+*
+* Name: ________Gunjan Kaur Paul____________________ Student ID: ____156409211__________ Date: _2nd October,2022_______
+*
+* Your app’s URL (from Cyclic) :_____https://sore-rose-caridea-gown.cyclic.app__________________________________________
+*
+*************************************************************************/ 
+
 var express = require("express");
 var app = express();
 var path = require("path");
